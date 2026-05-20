@@ -4,15 +4,11 @@
 
 计算机科学教育中缺失的一学期 —— 教你如何使用那些课堂上不会教的工具，从而更高效地工作。
 
-## 目录
-
-尚未添加笔记...
-
 ## 笔记
 
 | # | 主题 | 笔记 |
 |---|------|------|
-| 1 | Course Overview + The Shell | |
+| 1 | Course Overview + The Shell | [📄 笔记](MissingSemesterLecture1_shell.md) |
 | 2 | Shell Tools and Scripting | |
 | 3 | Editors (Vim) | |
 | 4 | Data Wrangling | |
